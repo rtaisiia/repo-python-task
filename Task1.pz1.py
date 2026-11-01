@@ -16,4 +16,3 @@ for word, count in result.items():
     if count > 3:
         povtor_sliv.append(word)
 print("\nSlova, scho povtoryytsya bilshe 3 raziv:\n", povtor_sliv)
-
