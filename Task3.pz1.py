@@ -22,4 +22,3 @@ for product, income in result_income.items():
     if income > 1000:
         hight_income_product.append(product)
 print("\nProducts with revenue over 1000: ",hight_income_product)
-
